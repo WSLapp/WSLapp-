@@ -1,0 +1,2 @@
+def rgwtgxrg():
+    exit()
